@@ -1,0 +1,32 @@
+1. d. 5
+2. b. True
+3. b. False
+4. a. 0
+5. d. 3
+6. b. True
+7. b. Else block is executed
+8. a. The condition evaluates to True
+9. c. 0 to 4
+10. d. range(10,0,-1)
+11. b. Condition always evaluates to True and no update to exit the condition
+12. d. Exits the loop
+13. d. As a placeholder in empty block
+14. d. 
+15. b. find() method
+16. d. isdigit()
+17. d. []
+18. d. [78, 87, 66]
+19. b. x[1] = 8
+20. c. x.pop(0)
+21. c. max(x)
+22. c. b[-1][-1]
+23. d. dict1.get('id')
+24. c. dict1.update({'Dept': 'Finance'})
+25. d. Old value gets replaced with new value
+26. d. 0
+27. c. Key-value pairs as tuples in dict_items
+28. a. Keys
+29. d. Unordered with no duplicates
+30. b. Elements in A, but not in B
+31. a. Mutable
+32. d. String
