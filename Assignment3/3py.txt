@@ -1,0 +1,7 @@
+1. d. Lambda
+2. c. A Pythan file with .py extension
+3. d. import
+4. d. from math import sqrt
+5. a. IndentionError
+6. c. Exception
+7. c. try
